@@ -59,11 +59,9 @@
 
 ### <p align="center">About me</p>
 
-<p>
 * Graduated from University of North Carolina at Charlotte
 * Bachelor's Degree in Computer Science with a focus in video game development and a secondary focus area of English (primarily fiction and technical writing)
 * Really likes working with Discord.js and writing Discord bots
-</p>
 
 </div>
 
