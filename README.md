@@ -61,6 +61,7 @@
 
 * Graduated from University of North Carolina at Charlotte
 * Bachelor's Degree in Computer Science with a focus in video game development and a secondary focus area of English (primarily fiction and technical writing)
+* Pixel artist (and community manager) for the <a href="https://www.mmbnchronox.com/">Mega Man Battle Network Chrono X fan game project.</a>
 * Really likes working with Discord.js and writing Discord bots
 
 </div>
